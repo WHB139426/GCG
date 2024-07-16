@@ -23,7 +23,7 @@ def parse_args():
     parser.add_argument('--seed', type=int, default=3407)
     parser.add_argument('--local_rank', default=-1, type=int, help='node rank for distributed training')
 
-    parser.add_argument('--word_size', default=4, help="n_gpus")
+    parser.add_argument('--word_size', default=8, help="n_gpus")
     parser.add_argument('--bs', type=int, default=4)
     parser.add_argument('--eval_bs', type=int, default=4)
     parser.add_argument('--epoch', type=int, default=10)
