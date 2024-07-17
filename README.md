@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 You can prepare the pretrained weights of InstructBLIP-T5-XL according to [[InstructBLIP](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)].
 
-Since we have changed the structure of the code of the model, we recommend you download the pretrained weights of EVA-CLIP, and QFormer directly in [[🤗HF](https://huggingface.co/WHB139426/GCG/tree/main)]. The pretrained weights should be organize as follows,
+Since we have changed the structure of the code of the model, we recommend you download the pretrained weights of EVA-CLIP, and QFormer directly in [[🤗HF](https://huggingface.co/WHB139426/GCG/tree/main)]. The pretrained weights should be organized as follows,
 
 ```
 ├── GCG
