@@ -7,6 +7,8 @@
 ```bash
 git clone https://github.com/WHB139426/GCG.git
 cd GCG
+mkdir experiments
+mkdir files
 ```
 
 2. Install Package
