@@ -24,7 +24,7 @@ class NEXTQADataset(Dataset):
         mapper_path = '../nextqa/map_vid_vidorID.json',
         video_path = "../nextqa/videos", 
         frame_path = "../nextqa/frames_32",
-        feature_path = "../nextqa/vision_features/feats_wo_norm.h5",
+        feature_path = "../nextqa/vision_features/feats_wo_norm_32.h5",
         frame_count = 32
     ):
         
