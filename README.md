@@ -39,7 +39,7 @@ Since we have changed the structure of the code of the model, we recommend you d
 ```
 
 ## Datasets
-You should download the videos of NExT-QA from https://github.com/doc-doc/NExT-QA?tab=readme-ov-file or directly with the link [[videos](https://drive.google.com/file/d/1jTcRCrVHS66ckOUfWRb-rXdzJ52XAWQH/view)]
+You should download the videos of NExT-QA from https://github.com/doc-doc/NExT-QA?tab=readme-ov-file or directly with the link [[videos](https://drive.google.com/file/d/1jTcRCrVHS66ckOUfWRb-rXdzJ52XAWQH/view)]. The downloaded videos should be in the folder `nextqa/videos`
 
 We provide the annotation files in [[🤗HF](https://huggingface.co/WHB139426/GCG/tree/main)], and you should organize the data as follows,
 
